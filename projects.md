@@ -3,7 +3,7 @@ layout: page
 title: P R O J E C T S
 permalink: /projects/
 ---
-I like to noodle around with code. Here's a few things that have made into the public eye, and a few that can't, at least not yet.
+I like to noodle around with code. Here's a few things that have made it into the public eye, and a few that can't, at least not yet.
 
 [Act Human](https://github.com/yellingviv/act_human) - A Twilio-based li'l computer friend to help me remember to act like a human being during the workday (drink water, fix my posture, unclench my jaw, go to lunch, go home, etc) because I'm terrible without reminders. It selects random reminders from a selection of messages that focuses on the things I need to remember to do. It works! Except that I want to create a randomly generated schedule for sending those texts, so that I don't get used to a time-based reminder (I quickly learned to ignore Slackbot reminders). This part is proving elusive, but I'll get there.
 
