@@ -4,6 +4,5 @@
 
 layout: page
 ---
-Coming soon, under construction, etc.
 
-Sorry, no sweet web 1.0 animations :(
+What do people even put on homepages these days? I've been staring at this for entirely too long. Come back another time, maybe I'll have content here!
