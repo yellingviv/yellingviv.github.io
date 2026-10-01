@@ -4,8 +4,17 @@ title: A B O U T
 permalink: /about/
 ---
 
-Vivienne is a security engineer focused on vulnerability management, and a student in the part-time software engineering fellowship at Hackbright Academy.
+Viv is a security engineering manager in the San Francisco Bay Area. This is the least interesting thing about her. This site is no longer about tech.
 
-She likes Python (and love/hates Node), command line craftery, and hiding out on the back-end. Please don't make her do FE. (Thanks, [Jekyll](http://jekyllrb.com), for making this website possible with as little FE work as possible.) Her ideal job is writing internal tools to help streamline security and make it easy for users to follow security best practices without pain and frustration.
+Two truths and a lie:
+* Viv is an award-winning author
+* Viv is a professional pole dancer
+* Viv owns 3 motorcycles
 
-Care and feeding of a Viv: a quiet corner with ample blankets, coffee, snacks, and lots of animals.
+I'll let you guess.
+
+While I am not interested in talking about tech/security on the whole, I am always interested in talking to women and gender nonconforming people in tech, especially early career or career transitioners. You can email me at viv @ this domain.
+
+Likewise, women and gender nonconforming people who are interested in getting involved in motorcycles and/or cars, pole dancing, or adopting random stray or shelter animals. Always up for a chat!
+
+Despite it all, my heart remains hopeful for a better world for us all.
