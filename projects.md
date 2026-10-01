@@ -1,7 +1,8 @@
 ---
+# not deleting this forever but removing it from the build
 layout: page
-title: P R O J E C T S
-permalink: /projects/
+# title: P R O J E C T S
+# permalink: /projects/
 ---
 I like to noodle around with code. Here's a few things that have made it into the public eye, and a few that can't, at least not yet.
 
